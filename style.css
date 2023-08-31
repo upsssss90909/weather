@@ -19,7 +19,7 @@ body {
 }
 
 #card {
-  width: 25vw;
+  width: 400px;
   /* height: 70vh; */
   background: linear-gradient(
     153deg,
@@ -144,7 +144,7 @@ body {
     /* width: 100vw; */
     /* height: 100vh; */
     /* height: 70%; */
-   width: 50%;
+   width: 350px;
 
     /* padding: 10vh 2vh 10vh 2vh; */
 
